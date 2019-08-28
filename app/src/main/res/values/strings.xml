@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CASHU</string>
+    <string name="agree">موافق</string>
+    <string name="connection_error">حدث خطأ في الاتصال بالانترنت</string>
+</resources>
